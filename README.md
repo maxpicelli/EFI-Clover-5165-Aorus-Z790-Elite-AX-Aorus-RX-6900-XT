@@ -6,7 +6,7 @@
 - **Modelo**: Gigabyte Aorus Z790 Elite AX (rev. 1.0)
 - **Chipset**: Intel Z790
 - **Socket**: LGA 1700
-- **BIOS**: F13 (9.57MB) - 2025/06/19
+- **BIOS**: F12 (9.57MB) - 2025/06/19
 
 ### 🔧 **Processador**
 - **Modelo**: Intel Core i9-13900K (Raptor Lake)
