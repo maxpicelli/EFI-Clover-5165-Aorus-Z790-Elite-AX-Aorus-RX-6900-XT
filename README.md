@@ -48,7 +48,7 @@ Esta EFI inclui o **FileVault Disable Patcher** configurado no `config.plist` co
 3. **SMBIOS**: Configure o SMBIOS adequado para seu hardware
 4. **FileVault**: Está desabilitado - não use se precisar de criptografia
 
-## 🔧 **Configurações BIOS (F13)**
+## 🔧 **Configurações BIOS **
 
 - Secure Boot: Desabilitado
 - Fast Boot: Desabilitado
@@ -61,6 +61,6 @@ Esta EFI inclui o **FileVault Disable Patcher** configurado no `config.plist` co
 
 **⚠️ Disclaimer**: Este projeto é apenas para fins educacionais. O uso de macOS em hardware não-Apple pode violar os termos de serviço da Apple. Use por sua própria conta e risco.
 
-**📅 Última Atualização**: Janeiro 2025
+**📅 Última Atualização**: Dezembro 2025
 **🔧 Versão Clover**: 5165
 **💻 Hardware**: Aorus Z790 Elite AX + RX 6900 XT + i9-13900K
