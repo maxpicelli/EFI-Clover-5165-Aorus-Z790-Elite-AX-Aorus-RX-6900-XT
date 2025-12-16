@@ -39,7 +39,7 @@
 
 ## 🔒 **FileVault Disable Patcher**
 
-Esta EFI inclui o **FileVault Disable Patcher** configurado no `config.plist` com procedimento `_apfs_filevault_allowed` para macOS Sequoia.
+Esta EFI inclui o **FileVault Disable Patcher** configurado no `config.plist` com procedimento `_apfs_filevault_allowed` para macOS Tahoe.
 
 ## ⚠️ **Avisos Importantes**
 
