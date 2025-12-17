@@ -54,7 +54,7 @@ Esta EFI inclui o **FileVault Disable Patcher** configurado no `config.plist` co
 - Fast Boot: Desabilitado
 - CSM: Desabilitado
 - Above 4G Decoding: Habilitado
-- Resizable BAR: Habilitado
+- Resizable BAR: desativado
 - XMP/DOCP: Habilitado (DDR5)
 
 ---
